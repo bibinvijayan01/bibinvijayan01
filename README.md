@@ -1,16 +1,20 @@
-## Hi there 👋
+##👋 Hi,I'm Bibin Vijayan
 
-<!--
-**bibinvijayan01/bibinvijayan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### **About Me**  
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning : language
+- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: bibinvijayan2018@gmail.com
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
+- 🚀 I'm a passionate Full Stack Developer (PYTHON)  
+- 🛠️ Currently building eCommerce & Institute Projects 
+- 📚 Always learning — Python, Django, Html, JavaScript  
+- 💼 Looking for Web Dev Opportunities  
+- 📝 Checkout my [Portfolio Website
+
+
+  
